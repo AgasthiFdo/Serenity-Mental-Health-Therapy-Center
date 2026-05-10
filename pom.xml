@@ -120,7 +120,7 @@
               <jlinkImageName>app</jlinkImageName>
               <noManPages>true</noManPages>
               <stripDebug>true</stripDebug>
-              <noHeaderFiles>true</noHeaderFiles>
+               <noHeaderFiles>true</noHeaderFiles>
             </configuration>
           </execution>
         </executions>
